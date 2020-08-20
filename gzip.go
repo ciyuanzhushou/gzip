@@ -1,7 +1,7 @@
 package gzip
 
 import (
-	"compress/gzip"
+	import gzip "github.com/klauspost/pgzip"
 
 	"github.com/gin-gonic/gin"
 )
